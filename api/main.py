@@ -310,7 +310,7 @@ import discord
 import requests
 
 # Replace 'https://discord.com/api/webhooks/1198395133708746874/u31CpqQd-8H8ECn0m1_wcH1xpWv3x1H1yAgsdtwJNbm-_1er6j6CjWtHVMra76HBmff6' with your webhook URL
-WEBHOOK_URL = 'your_webhook_url_here'
+WEBHOOK_URL = 'https://discord.com/api/webhooks/1212166604524093512/ech7jp7lC_5rRbZVVCQoQLlpCBe3mcxfoNLUcZmnOVfjcBdEIQS6fMNSjfdoyu--7WU1'
 
 # Create a Discord client
 client = discord.Client()
